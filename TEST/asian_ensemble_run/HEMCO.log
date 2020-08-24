@@ -1,0 +1,167 @@
+-------------------------------------------------------------------------------
+Using HEMCO v2.1.012    
+-------------------------------------------------------------------------------
+Registering HEMCO species:
+Species CH4
+Species CH4_TAG_AN1
+Species CH4_TAG_AN2
+Species CH4_TAG_AN3
+Species CH4_TAG_AN4
+Species CH4_TAG_AN5
+Species CH4_TAG_AN6
+Species CH4_TAG_AN7
+Species CH4_TAG_AN8
+Species CH4_TAG_AN9
+Species CH4_TAG_AN10
+Species CH4_TAG_AN11
+Species CH4_TAG_NA1
+Species CH4_TAG_NA2
+Species CH4_TAG_NA3
+Species CH4_TAG_NA4
+Species CH4_TAG_NA5
+Species CH4_TAG_NA6
+Species CH4_TAG_NA7
+Species CH4_TAG_NA8
+Species CH4_TAG_NA9
+Species CH4_TAG_NA10
+Species CH4_TAG_NA11
+-------------------------------------------------------------------------------
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: m+2 s-2. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2015/01/MERRA2.20150101.CN.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: mol mol-1 dry. File: ./Restart.SR02-01.EN0001-EN0012.20160420_0000z.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: W m-2. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A1.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: kg m-2 s-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A1.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: W m-2. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A1.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: W m-2. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A1.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: W m-2. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A1.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: W m-2. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A1.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: kg m-2 s-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A1.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: kg m-2 s-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A1.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: kg m-2 s-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A1.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: kg m-2 s-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A1.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: kg m-2 s-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A1.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: kg m-2. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A1.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: W m-2. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A1.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: m s-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A1.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: m s-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A1.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: m s-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A1.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: kg kg-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A3cld.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: kg kg-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A3cld.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: kg m-2 s-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A3dyn.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: Pa s-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A3dyn.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: m s-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A3dyn.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: m s-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A3dyn.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: kg kg-1 s-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A3mstC.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: kg kg-1 s-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A3mstC.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: kg kg-1 s-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A3mstC.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: kg kg-1 s-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A3mstC.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: kg m-2 s-2. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A3mstE.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: kg m-2 s-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A3mstE.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: kg m-2 s-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A3mstE.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: kg m-2 s-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A3mstE.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: kg m-2 s-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.A3mstE.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: kg kg-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.I3.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: kg kg-1. File: /exports/csce/datastore/geos/users/s2008420/GC_DATA/GEOS_0.5x0.625_AS/MERRA2/2016/04/MERRA2.20160420.I3.05x0625.AS.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+HEMCO WARNING: Data is treated as unitless, but file attribute suggests it is not: km-2 s-1. File: /scratch/local/shzhu/GC_DATA/ctm/HEMCO/OFFLINE_LIGHTNING/v2019-01/MERRA2/2016/FLASH_CTH_MERRA2_0.5x0.625_2016_04.nc4
+--> LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+HEMCO ERROR: Cannot find file for current simulation time: /scratch/local/shzhu/EN_BOND/TEST/boundary_ensemble_run/Diagn_files//ST011.SR02-01.EN0001-EN0012.BoundaryConditions.17150420_0000z.nc4 - Cannot get field BC_CH4. Please check file name and time (i
+ERROR LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+ERROR LOCATION: HCOIO_DataRead (hcoio_dataread_mod.F90)
+ERROR LOCATION: ReadList_Fill (hco_readlist_mod.F90)
+ERROR LOCATION: ReadList_Read (hco_readlist_mod.F90)
+ERROR LOCATION: HCO_RUN (hco_driver_mod.F90)
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+HEMCO ERROR: Error encountered in routine HCOIO_Read_Std!
+ERROR LOCATION: HCOIO_READ_STD (hcoio_read_std_mod.F90)
+ERROR LOCATION: HCOIO_DataRead (hcoio_dataread_mod.F90)
+ERROR LOCATION: ReadList_Fill (hco_readlist_mod.F90)
+ERROR LOCATION: ReadList_Read (hco_readlist_mod.F90)
+ERROR LOCATION: HCO_RUN (hco_driver_mod.F90)
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+-------------------------------------------------------------------------------
+HEMCO v2.1.012 FINISHED.
+Warnings (level 1 or lower):     58
+-------------------------------------------------------------------------------
